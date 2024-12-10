@@ -1,7 +1,7 @@
 Bangkit Capstone Team ID : C242-PS539
 Here is our repository for Bangkit 2024 batch 2 Capstone project. Our team consist of 3 Machine Learning, 1 Mobile Development, and 2 Cloud Computing.
 # CekFakta
-CekFakta is a hoax detection web app designed to help Indonesians differentiate between real and fake information  quickly and accurately. With an interactive and user-friendly interface, this web app enables users to verify news efficiently  while also providing education on trending misinformation.			
+CekFakta is a hoax detection app designed to help Indonesians differentiate between real and fake information  quickly and accurately. With an interactive and user-friendly interface, this app enables users to verify news efficiently  while also providing education on trending misinformation.			
 
 # Our Team
 | Name                  | Bangkit-ID    | Learning Path       |
