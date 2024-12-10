@@ -32,4 +32,4 @@ CekFakta is a hoax detection app designed to help Indonesians differentiate betw
 |------|------------------------|----------------------------|----------------------------|------------------------|
 | ML   | Research ML Model      | Develop and Train ML Model | Integrate ML Model         | Testing and Bug Fixes  |
 | MD   | Wireframe Design       | Frontend Development       | Frontend Development       | Integrating            |
-| CC   | Repository Setup       | Backend Development        | Deploy to Google Cloud     | Integrating            |
+| CC   |           -            | Backend Development        | Deploy to Google Cloud     | Integrating            |
