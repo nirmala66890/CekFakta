@@ -13,9 +13,18 @@ CekFakta is a hoax detection app designed to help Indonesians differentiate betw
 | Nirmala Putri        | C381B4KX3383 | Cloud Computing     |
 | Airine Noor Ibrahim  | A766B4KX0256 | Mobile Development  |
 
-# Documents
-Project Plan : https://docs.google.com/document/d/1oIT7Wkx_Xn_KtPAuxNCD_6eA_IhsIO3CovhgMmxbEZs/edit?tab=t.0
-Cloud Arsitecture : https://online.visual-paradigm.com/share.jsp?id=333730373238322d31
+# Documents and Links
+1. **Project Plan**  
+   [Google Docs Link](https://docs.google.com/document/d/1oIT7Wkx_Xn_KtPAuxNCD_6eA_IhsIO3CovhgMmxbEZs/edit?tab=t.0)
+
+2. **Cloud Architecture**  
+   [Visual Paradigm Link](https://online.visual-paradigm.com/share.jsp?id=333730373238322d31)
+
+3. **Our Dataset**  
+   [Kaggle Link](https://www.kaggle.com/datasets/linkgish/indonesian-fact-and-hoax-political-news)
+
+
+
 
 
 # Project Timeline
