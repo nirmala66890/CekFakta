@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@android:color/white"
+    android:padding="20dp">
+
+    <!-- Hasil Prediksi -->
+    <TextView
+        android:id="@+id/predictionResultText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hasil Prediksi"
+        android:textSize="24sp"
+        android:textColor="@color/resultTextColor"
+        android:textStyle="bold"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/predictionResultDetail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Berita ini diklasifikasikan sebagai 1"
+        android:textSize="18sp"
+        android:textColor="@color/colorPrimary"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:paddingHorizontal="20dp" />
+
+    <Button
+        android:id="@+id/checkAnotherButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cek Berita Lain"
+        android:textColor="@color/buttonTextColor"
+        android:background="@drawable/rounded_button"
+        android:layout_marginTop="30dp"
+        android:paddingHorizontal="30dp"
+        android:paddingVertical="12dp"
+        android:textSize="16sp" />
+</LinearLayout>
