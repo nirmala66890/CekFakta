@@ -23,6 +23,9 @@ CekFakta is a hoax detection app designed to help Indonesians differentiate betw
 3. **Our Dataset**  
    [Kaggle Link](https://www.kaggle.com/datasets/linkgish/indonesian-fact-and-hoax-political-news)
 
+4. **Wireframe Design**  
+   [Figma]()
+
 
 
 
